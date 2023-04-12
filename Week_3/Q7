@@ -1,0 +1,3 @@
+7. What is the size of a C structure? How the size of a C structure is calculated?
+
+ans> The size of a c structure is total bytes of all elements of the structure. The size of the c struture is the addition of all the data types (which have a predefined size).
